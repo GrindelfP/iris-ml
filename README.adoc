@@ -4,3 +4,18 @@
 This is a machine learning project that uses the Iris dataset to predict the species of a flower based on the length and width of the petals and sepals.
 
 The aim of the project is to study the basic concepts of machine learning and to apply them to a real world dataset.
+
+== The task ==
+
+The task is to predict the species of a flower based on the length and width of the petals and sepals.
+
+== The workflow ==
+
+1. Import the dataset and turn it into a dataframe
+2. Explore the dataset
+3. Append the species column to the dataframe
+4. Plot the data to visualise it and spot the possible clusters
+5. Split the data into training and testing sets
+6. Train the model
+7. Test the model
+8. Output the results
