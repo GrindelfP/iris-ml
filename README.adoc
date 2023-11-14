@@ -1,0 +1,6 @@
+= Iris Machine Learning =
+
+== Description ==
+This is a machine learning project that uses the Iris dataset to predict the species of a flower based on the length and width of the petals and sepals.
+
+The aim of the project is to study the basic concepts of machine learning and to apply them to a real world dataset.
